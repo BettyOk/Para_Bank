@@ -29,6 +29,7 @@
     "cypress-file-upload": "^5.0.8",
     "cypress-xpath": "^2.0.1",
     "esbuild": "^0.16.4",
+    "mocha": "^10.7.3",
     "multiple-cucumber-html-reporter": "^3.0.1"
   },
   "dependencies": {
